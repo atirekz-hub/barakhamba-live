@@ -209,6 +209,8 @@ const isClosed = !isStale && status.status === "CLOSED";
           Helping Agra travel smarter.
           <br />
           Independent public information project
+          <br />
+Made with ❤️ by <strong>Dr. Atirek Mittal</strong>
         </footer>
 
       </div>
